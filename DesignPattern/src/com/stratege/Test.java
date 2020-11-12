@@ -3,7 +3,7 @@ package com.stratege;
 import java.util.Random;
 
 /**
- * @Author: Aden Tsai
+ * @Author: iceixQwQ
  * @Date: 2020/11/11 - 11 - 11 - 22:14
  * @Description: com.stratege
  * @Version: 1.0
